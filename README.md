@@ -1,2 +1,2 @@
-# bactopia-prepper
-The methods used in Bactopia to get all the samples in one place
+# bactopia-gather
+The methods used in Bactopia to gather all samples into one place
